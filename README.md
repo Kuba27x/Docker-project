@@ -58,8 +58,8 @@ Then follow the interactive prompts to create the admin account.
 
 Below are example images from the frontend. These are located in `frontend/public/images`:
 
-![image1](frontend/public/images/image2.jpg)
-![image2](frontend/public/images/image1.jpg)
+![image1](frontend/public/images/dashboard.jpg)
+![image2](frontend/public/images/how-it-works.jpg)
 
 ---
 
